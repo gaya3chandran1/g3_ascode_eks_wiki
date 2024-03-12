@@ -1,3 +1,5 @@
+https://www.youtube.com/watch?v=7wRqtBMS6E0
+
 # wiki
 - all the sample code, lessons, and cheatsheets
 - i try my best to keep everything updated, but please fork / pull request as you see fit :)
